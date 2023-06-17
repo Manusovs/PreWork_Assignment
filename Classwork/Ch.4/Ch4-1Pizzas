@@ -1,0 +1,4 @@
+pizzas = ["mushroom", "pineapple", "veggie supreme"]
+for pizza in pizzas:
+    print("Scott enjoys " + pizza + " pizza.")
+print("Pizza is great, and covers several food groups, despite being considered unhealthy")

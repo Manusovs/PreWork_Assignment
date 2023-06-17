@@ -1,0 +1,4 @@
+Friends = ["Chris", "Chris", "Charlotte"]
+print("Hello " + Friends [0]+ ", I'm glad you could help me with this assignment.")
+print("Hello " + Friends [1]+ ", I'm glad you could help me with this assignment.")
+print("Hello " + Friends [2]+ ", I'm glad you could help me with this assignment.")

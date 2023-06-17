@@ -1,0 +1,4 @@
+Animals = ["octopi", "squids", "snails"]
+for Animal in Animals:
+    print(Animal + " live underwater")
+print("These are all cephalopods")

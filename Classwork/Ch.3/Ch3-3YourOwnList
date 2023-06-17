@@ -1,0 +1,11 @@
+tesla = ['Model 3', 'Model S', 'Model X', 'Model Y', 'Cybertruck']
+ptesla = tesla.pop(2) #this is a test line
+print(tesla)
+print(ptesla)
+# tesla.append("Last") #this is a test line
+#  =print(tesla[popped])#this is a test line
+# print("I would like to own a " + tesla[1])
+# print("I would like to own a " + tesla[0])
+# print("I would like to own a " + tesla[2])
+# print("I would like to own a " + tesla[3])
+# print("I would like to own a \t    " + tesla[-1]) #added spacing so it would line up with S3XY, thought it was amusing

@@ -1,0 +1,12 @@
+places = ["Japan", "China", "Maldives", "Disney Land", "Universal Studios"]
+print(places)
+print(sorted(places))
+print(places)
+places.reverse()
+print(places)
+places.reverse()
+print(places)
+places.sort()
+print(places)
+places.sort(reverse=True)
+print(places)
